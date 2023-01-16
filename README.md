@@ -1,2 +1,2 @@
-# calculator
+# Calculator
 A calculator in typescript
